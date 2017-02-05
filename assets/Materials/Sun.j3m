@@ -1,0 +1,7 @@
+Material My Material : ShaderBlow/MatDefs/SkyDome/SkyDome.j3md {
+     MaterialParameters {
+     }
+    AdditionalRenderState {
+      Blend Alpha
+    }
+}

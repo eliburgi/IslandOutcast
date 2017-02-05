@@ -1,0 +1,33 @@
+<nifty-controls>
+    <controlDefinition name="options">
+        <panel id="optionsPanel" childLayout="vertical" width="40%" height="60%" align="center" valign="center" backgroundColor="#333f">
+            <panel childLayout="horizontal" width="100%" height="30px" align="center">
+                
+                <control name="label" id="title" align="center" text="Options" width="*"/>
+                
+                <control name="button" id="closeButton" align="right" label="x" height="30px" width="30px" >
+                    <interact onClick="toggleOptionsMenu()"/>
+                </control>
+            </panel>
+
+            <control name="button" id="startButton" align="center" label="Start" height="30px" width="150px">
+                <interact onClick="startGame()"/>
+            </control>
+            
+            <panel height="2px"/>
+            
+            <control name="button" id="settingsButton" align="center" label="Settings" height="30px" width="150px">
+                <interact onClick="showSettings()"/>
+            </control>
+            
+            <panel height="2px"/>
+            
+            <control name="button" id="quitButton" align="center" label="Quit" height="30px" width="150px">
+                <interact onClick="quit()"/>
+            </control>
+            
+            <panel height="2px"/>
+            
+        </panel>
+    </controlDefinition>
+</nifty-controls>

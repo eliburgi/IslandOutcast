@@ -1,0 +1,14 @@
+Material My Material : Common/MatDefs/Light/Lighting.j3md {
+     MaterialParameters {
+        UseVertexColor : true
+        Diffuse : 1.0 1.0 1.0 1.0
+        Ambient : 1.0 1.0 1.0 1.0
+        Specular : 1.0 1.0 1.0 1.0
+        UseAlpha : false
+        EnvMapAsSphereMap : false
+        UseMaterialColors : true
+     }
+    AdditionalRenderState {
+      Blend Alpha
+    }
+}

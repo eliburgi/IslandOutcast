@@ -1,0 +1,10 @@
+Material My Material : MatDefs/Wave.j3md {
+     MaterialParameters {
+        VertexLighting : false
+        UseVertexColor : true
+        Ambient : 85 85 85 85
+        Diffuse : 255 255 255 255
+     }
+    AdditionalRenderState {
+    }
+}

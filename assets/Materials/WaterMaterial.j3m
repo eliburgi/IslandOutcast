@@ -1,0 +1,11 @@
+Material My Material : MatDefs/LigtningWave.j3md {
+     MaterialParameters {
+        UseVertexColor : true
+        Shininess : 50.0
+        Specular : 2.0 2.0 2.0 1.0
+        UseAlpha : true
+     }
+    AdditionalRenderState {
+      Blend Alpha
+    }
+}

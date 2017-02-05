@@ -1,0 +1,945 @@
+material mat115.001/SOLID/TEX/floor_1.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture floor_1.tga
+			}
+		}
+	}
+}
+material mat44.001/SOLID/TEX/floor10_dec.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture floor10_dec.tga
+			}
+		}
+	}
+}
+material mat118.001/SOLID/TEX/marble_grey.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture marble_grey.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/wall_hiero.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture wall_hiero.tga
+			}
+		}
+	}
+}
+material mat49.001/SOLID/TEX/floor_2.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture floor_2.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/trim_v_2.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture trim_v_2.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/floor_3.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture floor_3.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/stone_6_dec_1.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture stone_6_dec_1.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/floor_7.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture floor_7.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/hiero1.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture hiero1.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/stone_1.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture stone_1.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/trim_1.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture trim_1.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/armor_sign.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture armor_sign.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/floor_8.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture floor_8.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/decor_22.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture decor_22.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/trim_2.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture trim_2.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/hiero_2.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture hiero_2.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/floor_9.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture floor_9.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/trim_dec_2.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture trim_dec_2.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/wall_2_base.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture wall_2_base.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/decor_12.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture decor_12.tga
+			}
+		}
+	}
+}
+material mat48.001/SOLID/TEX/trim_3.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture trim_3.tga
+			}
+		}
+	}
+}
+material mat43.001/SOLID/TEX/trim_v_2.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture trim_v_2.tga
+			}
+		}
+	}
+}
+material mat46.001/SOLID/TEX/stone_2.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture stone_2.tga
+			}
+		}
+	}
+}
+material mat45.001/SOLID/TEX/trim_dec_3.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture trim_dec_3.tga
+			}
+		}
+	}
+}
+material mat47.001/SOLID/TEX/hiero1.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture hiero1.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/decor_20.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture decor_20.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/teleport.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture teleport.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/floor10_dec.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture floor10_dec.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/marble_grey.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture marble_grey.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/stone_4.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture stone_4.tga
+			}
+		}
+	}
+}
+material mat41.001/SOLID/TEX/marble_grey.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture marble_grey.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/stone_3.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture stone_3.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/decor_6.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture decor_6.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/decor_11.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture decor_11.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/trim_tele.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture trim_tele.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/decor_18.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture decor_18.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/stone_2.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture stone_2.tga
+			}
+		}
+	}
+}
+material mat40.001/SOLID/TEX/trim_7.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture trim_7.tga
+			}
+		}
+	}
+}
+material mat114.001/SOLID/TEX/stone_4.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture stone_4.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/decor_19.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture decor_19.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/floor_5.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture floor_5.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/hiero_3.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture hiero_3.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/floor_2.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture floor_2.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/stone_8_dec_1.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture stone_8_dec_1.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/trim_dec_1.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture trim_dec_1.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/trim_7.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture trim_7.tga
+			}
+		}
+	}
+}
+material mat117.001/SOLID/TEX/trim_dec_1.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture trim_dec_1.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/flat_1.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture flat_1.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/trim_6_dec_1.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture trim_6_dec_1.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/wall_2_dec_1.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture wall_2_dec_1.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/trim_6_b.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture trim_6_b.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/floor10.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture floor10.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/trim_3.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture trim_3.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/marble_red.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture marble_red.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/trim_dec_6.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture trim_dec_6.tga
+			}
+		}
+	}
+}
+material mat116.001/SOLID/TEX/trim_7.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture trim_7.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/marble_green.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture marble_green.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/trim_dec_3.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture trim_dec_3.tga
+			}
+		}
+	}
+}
+material mat42.001/SOLID/TEX/floor_7.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture floor_7.tga
+			}
+		}
+	}
+}
+material mat119.001/SOLID/TEX/trim_v_2.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture trim_v_2.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/wall_2_dec_2.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture wall_2_dec_2.tga
+			}
+		}
+	}
+}
+material mat115.001/SOLID/TEX/trim_6.tga
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture trim_6.tga
+			}
+		}
+	}
+}
